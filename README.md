@@ -7,7 +7,7 @@
 ![Minuteria1min](https://user-images.githubusercontent.com/110185446/196012871-7467cc9c-8513-4e1e-9f8c-50ca747a6ce9.PNG)
 :---:
 |Autores: Vitor, Higor, Lucas, Julia e Samuel|
-## Figura 3: Simulador (Proteus)
+## Figura 3: 1 Min 30S (Proteus)
 ![Minuteria1M30S](https://user-images.githubusercontent.com/110185446/196012922-20a8e997-96a5-46d4-87c4-678cb17a887a.PNG)
 :---:
 |Autores: Vitor, Higor, Lucas, Julia e Samuel|
