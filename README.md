@@ -1,13 +1,13 @@
 ## Projeto-Temporizador
-## Figura 1: Simulador () 
+## Figura 1: Simulador (Proteus) 
+![]()
+:---:
+|Autores: |
+## Figura 2: Simulador (Proteus)
 ![]()
 :---:
 |Autores: Vitor, Higor, Lucas e Julia|
-## Figura 2: Protoboard ()
-![]()
-:---:
-|Autores: Vitor, Higor, Lucas e Julia|
-## Figura 3: Esquemático ()
+## Figura 3: Simulador (Proteus)
 ![]()
 :---:
 |Autores: Vitor, Higor, Lucas e Julia|
