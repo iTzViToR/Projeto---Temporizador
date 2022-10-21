@@ -19,3 +19,5 @@
 ![3d](https://user-images.githubusercontent.com/110185446/197261519-c71200ca-8f6e-46a5-8f16-d9be742a6d0c.PNG)
 :---:
 |Autores: Vitor, Higor, Lucas, Julia e Samuel|
+## Figura 6: 3D Inferior (easy EDA)
+![3d inferior](https://user-images.githubusercontent.com/110185446/197271140-81c11cd6-7e50-4398-94fa-3cda4633a067.PNG)
