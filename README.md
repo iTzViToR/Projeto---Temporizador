@@ -11,11 +11,11 @@
 ![Minuteria1M30S](https://user-images.githubusercontent.com/110185446/196012922-20a8e997-96a5-46d4-87c4-678cb17a887a.PNG)
 :---:
 |Autores: Vitor, Higor, Lucas, Julia e Samuel|
-## Figura 4: PCB ()
-![]()
+## Figura 4: PCB (easy EDA)
+![pcb](https://user-images.githubusercontent.com/110185446/197261269-c76ed47b-088e-4019-bc04-ebdddb98e715.PNG)
 :---:
 |Autores: Vitor, Higor, Lucas, Julia e Samuel|
-## Figura 5: 3D ()
-![]()
+## Figura 5: 3D (easy EDA)
+![3d](https://user-images.githubusercontent.com/110185446/197261519-c71200ca-8f6e-46a5-8f16-d9be742a6d0c.PNG)
 :---:
 |Autores: Vitor, Higor, Lucas, Julia e Samuel|
